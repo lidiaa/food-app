@@ -1,0 +1,24 @@
+.blog_page {
+  padding: 120px 0;
+  background: url("../assets/blog/reviews.jpg") no-repeat center center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.blog_page .user_img img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+  object-fit: cover;
+}
+
+.blog_page p {
+  font-size: 1.3rem;
+  color: var(--white);
+  margin-bottom: 15px;
+}
+
+.blog_page h5 {
+  color: var(--yellow);
+}

@@ -1,0 +1,13 @@
+.menu_page {
+  padding: 120px 0;
+}
+
+.menu_page h2 {
+  font-size: 3rem;
+  color: var(--light-red);
+}
+
+.menu_page p {
+  color: var(--grey);
+  font-size: 18px;
+}
